@@ -45,7 +45,6 @@ JumpLander ترکیبی از یک مدل تولید کد (Coder 32B) و مجمو
 3. **Inference Cluster (Coder 32B)** — optimized runtime for token-efficient, deterministic completions.  
 4. **Tooling & Post-process** — test-case generation, static checks, patch generation, CI hooks.
 
-> Diagram placeholder: `./assets/screenshots/architecture_diagram.png`
 
 ---
 
@@ -117,5 +116,3 @@ Thanks to the internal engineering, data and tooling teams driving product matur
 - **GitHub (docs only):** https://github.com/jumplander-readme/JumpLander-Coder-32B
 
 ---
-
-*Prepared for technical audiences — keep numeric benchmarks private until approved for publication.*
