@@ -78,13 +78,10 @@ JumpLander ترکیبی از یک مدل تولید کد (Coder 32B) و مجمو
 ## 🔐 Security & privacy
 - هیچ داده حساس کاربر در ریپازیتوری ذخیره نمی‌شود.  
 - توصیه می‌کنیم قبل از هر ادغام، خط لوله‌های CI را برای پاک‌سازی داده‌های دیباگ و لاگ‌های حساس بررسی کنید.  
-- برای ارزیابی امنیتی یا دسترسی آزمایشی، تماس از طریق `contact@jumplander.org` برقرار شود.
 
 ---
 
 ## 📂 What’s included in this repo
-- مستندات فنی و راهنمای استقرار (docs/)  
-- نمودارها و اسکرین‌شات‌ها (`./assets/screenshots/`)  
 - راهنمای بنچمارک (repro scripts — internal) — **برای انتشار عمومی نیاز به مجوز دارد**  
 - فایل LICENSE (Proprietary)
 
@@ -92,7 +89,6 @@ JumpLander ترکیبی از یک مدل تولید کد (Coder 32B) و مجمو
 
 ## 📣 Access, licensing & contribution
 - **Current status:** Proprietary — **Not open source**.  
-- برای ارزیابی، همکاری تحقیقاتی یا دسترسی شرکتی، لطفاً درخواست رسمی بفرستید: `contact@jumplander.org`.  
 - مشارکت عمومی و pull-request در حال حاضر پذیرفته نمی‌شود؛ اما درخواست همکاری و مشارکت فنی بررسی خواهد شد.
 
 ---
@@ -110,8 +106,5 @@ Thanks to the internal engineering, data and tooling teams driving product matur
 ---
 
 ## 📬 Contact
-- **Enterprise / evaluations:** contact@jumplander.org  
 - **Website:** https://jumplander.org  
 - **GitHub (docs only):** https://github.com/jumplander-readme/JumpLander-Coder-32B
-
----
