@@ -65,7 +65,6 @@ JumpLander ترکیبی از یک مدل تولید کد (Coder 32B) و مجمو
 | StarCoder variants                    | Reference (open)     | Community ecosystem, multi-language tooling             | Medium             | Medium           | Tooling & experiments |
 | GPT-4 family (code-capable)           | Closed / Enterprise  | Advanced reasoning, SOTA in some code tasks             | Variable           | Very High        | Enterprise / high-stakes |
 
-> نکته: این جدول برای مرور سریع است؛ اعداد نهایی بنچمارک تنها پس از مجوز رسمی منتشر خواهند شد.
 
 ---
 
