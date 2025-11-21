@@ -108,6 +108,7 @@ Thanks to the internal engineering, data and tooling teams driving product matur
 ## Contributors
 [![Username](https://github.com/osodyssey.png?size=200)](https://github.com/osodyssey)
 
+
 ## 📬 Contact
 - **Website:** https://jumplander.org  
 - **GitHub (docs only):** https://github.com/jumplander-readme/JumpLander-Coder-32B
