@@ -135,7 +135,7 @@ Become part of a growing network of Iranian developers and AI enthusiasts:
 - Share your projects and contribute to community knowledge.  
 - Help shape the future of **AI-assisted programming in Iran**.
 
-![Community Illustration](https://huggingface.co/jumplander/jumplander-coder-32b/discussions)
+[JumpLander Community](https://huggingface.co/jumplander/jumplander-coder-32b/discussions)
 
 ---
 
