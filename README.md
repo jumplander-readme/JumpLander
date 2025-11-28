@@ -61,7 +61,7 @@ By building this ecosystem, JumpLander strives to become the **leading AI-assist
 - **Community Engagement:** Builds a collaborative network for knowledge sharing and skill development.  
 - **Trust and Security:** Prioritizes user privacy, ethical AI usage, and safe handling of sensitive information.
 
-![AI Model Illustration](blob:https://jumplander.org/b4c63ca8-f96f-4cf8-88da-ef0ba1c81889)
+![AI Model Illustration](https://huggingface.co/jumplander/jumplander-coder-32b)
 
 ---
 
