@@ -49,7 +49,7 @@ By building this ecosystem, JumpLander strives to become the **leading AI-assist
 - **Continuous Learning and Community Contributions:**  
   The platform encourages knowledge sharing through community-driven content, allowing developers to contribute tutorials, sample code, and improvements.
 
-![Platform Screenshot](YOUR_SCREENSHOT_LINK_HERE)
+![Platform Screenshot](https://www.jumplander.org/assets/github/jumplndf.png)
 
 ---
 
