@@ -1,6 +1,6 @@
 # JumpLander (جامپ‌لندر)
 
-![JumpLander Logo](https://www.jumplander.org/assets/images/logojump.png)
+![JumpLander Logo](https://www.jumplander.org/assets/images/logo/logo-jumplander-v2.png)
 
 **JumpLander** is an advanced AI-powered platform designed specifically for developers, software engineers, and programming enthusiasts, with a strong focus on the Persian-speaking community. The platform leverages state-of-the-art AI models to assist with code generation, debugging, and learning, providing a comprehensive environment where developers can create, test, and improve software more efficiently.
 
