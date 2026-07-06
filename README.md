@@ -1,142 +1,285 @@
-# JumpLander (جامپ‌لندر)
+# 🟢 JumpLander (جامپ‌لندر)
 
 ![JumpLander Logo](https://www.jumplander.org/assets/images/logo/logo-jumplander-v2.png)
 
-**JumpLander** is an advanced AI-powered platform designed specifically for developers, software engineers, and programming enthusiasts, with a strong focus on the Persian-speaking community. The platform leverages state-of-the-art AI models to assist with code generation, debugging, and learning, providing a comprehensive environment where developers can create, test, and improve software more efficiently.
+**JumpLander** is an AI engineering project focused on software development, coding agents, developer tools, programming datasets, lightweight models, and technical research.
+
+The project is being built step by step as a practical ecosystem for developers, with a strong focus on Persian-speaking programmers and real-world software engineering workflows.
+
+JumpLander is not just a single AI tool.  
+It is a long-term effort to build useful infrastructure around AI-assisted programming, including educational resources, coding workflows, research experiments, open datasets, and developer-focused tools.
 
 ---
 
 ## 🌐 Mission
 
-JumpLander’s mission is to **empower Iranian developers and programmers worldwide** by providing a fully localized AI-driven coding platform.  
-The platform aims to:
-- Reduce the complexity of software development.  
-- Accelerate learning and coding skills for developers at all levels.  
-- Enable programmers to leverage AI to write clean, optimized, and error-free code.  
-- Foster a community-driven ecosystem where knowledge, experience, and solutions are shared.
+JumpLander’s mission is to make AI-assisted software development more accessible, practical, and understandable for developers.
+
+The project focuses on:
+
+- Building useful AI-powered tools for programming workflows.
+- Supporting Persian-speaking developers with localized technical resources.
+- Creating and publishing programming-focused datasets.
+- Exploring coding agents and repository-aware development systems.
+- Producing technical articles, documentation, and research notes.
+- Helping developers learn, debug, refactor, and understand code more effectively.
+
+JumpLander aims to grow through real technical outputs, not unsupported claims.
 
 ---
 
 ## 🎯 Vision
 
-JumpLander envisions a future where **AI is seamlessly integrated into everyday coding workflows**, helping developers:
-- Automatically generate code for various programming languages and frameworks.  
-- Debug and optimize projects with intelligent recommendations.  
-- Learn new programming concepts interactively.  
-- Focus on creativity and problem-solving rather than repetitive tasks.  
+JumpLander envisions a future where AI becomes a practical part of everyday software development.
 
-By building this ecosystem, JumpLander strives to become the **leading AI-assisted coding platform developed by and for the Iranian developer community**.
+The long-term vision is to build an ecosystem where developers can:
+
+- Learn programming concepts with clearer explanations.
+- Use AI tools to understand and improve code.
+- Experiment with coding agents and automation workflows.
+- Access structured datasets for programming and software engineering.
+- Explore lightweight AI models and technical experiments.
+- Contribute to a growing AI-focused developer community.
+
+The goal is to build a serious technical foundation for AI-assisted programming, especially for the Persian-speaking developer community.
 
 ---
 
-## 🔑 Core Features
+## 🔑 Core Focus Areas
 
-- **AI-Powered Code Generation:**  
-  JumpLander uses advanced language models to generate high-quality, syntactically correct code tailored to the developer’s context.
+### 1. AI-Assisted Developer Tools
 
-- **Intelligent Debugging and Optimization:**  
-  The platform analyzes code, identifies potential errors, suggests improvements, and optimizes performance automatically.
+JumpLander explores tools that help developers write, understand, debug, refactor, and improve code.
 
-- **Interactive Learning Environment:**  
-  Users can explore tutorials, sample projects, and hands-on exercises that reinforce coding skills while leveraging AI guidance.
+These tools may include:
 
-- **Persian Language Support:**  
-  JumpLander is fully optimized for Persian-speaking developers, providing localized documentation, examples, and support.
+- Code explanation
+- Debugging assistance
+- Refactoring suggestions
+- Test generation
+- Project scaffolding
+- Repository-aware workflows
+- Developer productivity utilities
 
-- **Quickstart Projects:**  
-  Ready-to-run example projects allow users to immediately experience the platform’s capabilities and integrate AI into real-world workflows.
+---
 
-- **Continuous Learning and Community Contributions:**  
-  The platform encourages knowledge sharing through community-driven content, allowing developers to contribute tutorials, sample code, and improvements.
+### 2. Coding Agents
+
+JumpLander researches and experiments with coding-agent workflows for software engineering.
+
+The focus is on practical agent behavior, such as:
+
+- Understanding project structure
+- Inspecting files
+- Planning code changes
+- Suggesting patches
+- Supporting multi-step development tasks
+- Helping developers reason about architecture and implementation
+
+The goal is not to claim full automation, but to build useful systems that support real development work.
+
+---
+
+### 3. Programming Datasets
+
+JumpLander develops and publishes datasets related to programming, debugging, software engineering, repository understanding, and AI-assisted development.
+
+These datasets are intended for:
+
+- Research
+- Model evaluation
+- Fine-tuning experiments
+- Coding-agent analysis
+- Educational use cases
+- Future developer tool development
+
+---
+
+### 4. Lightweight Models
+
+JumpLander experiments with smaller and more accessible language models for programming-related tasks.
+
+The focus is on practical foundations, evaluation, Persian developer experience, and controlled experiments before moving toward larger systems.
+
+---
+
+### 5. Research, Documentation, and Education
+
+JumpLander treats technical writing and documentation as core parts of the project.
+
+The platform publishes content around:
+
+- AI coding systems
+- RAG for programming
+- Coding agents
+- Dataset design
+- Model behavior
+- Developer workflows
+- Software engineering automation
+- Programming education in Persian and English
+
+---
+
+## 💡 Why JumpLander?
+
+JumpLander is built around a realistic and transparent approach to AI-assisted programming.
+
+Instead of presenting unsupported claims, the project focuses on:
+
+- Building visible technical assets
+- Publishing datasets and documentation
+- Testing practical AI workflows
+- Supporting Persian-speaking developers
+- Creating useful developer tools
+- Growing gradually through research and implementation
+
+The goal is to build trust through real work.
 
 ![Platform Screenshot](https://www.jumplander.org/assets/github/jumplndf.png)
 
 ---
 
-## 💡 Why Choose JumpLander?
+## 📚 Educational and Technical Resources
 
-- **Locally Developed AI Solutions:** Designed with the unique needs of Iranian developers in mind.  
-- **Efficiency and Productivity:** Automates repetitive tasks, enabling developers to focus on creative solutions.  
-- **Educational Value:** Provides an interactive and structured learning experience for both beginners and advanced programmers.  
-- **Community Engagement:** Builds a collaborative network for knowledge sharing and skill development.  
-- **Trust and Security:** Prioritizes user privacy, ethical AI usage, and safe handling of sensitive information.
+JumpLander provides educational and technical content for developers, including:
 
-![AI Model Illustration](https://www.jumplander.org/assets/github/jumplander.jpg)
+- Programming tutorials
+- AI-assisted coding examples
+- Debugging and refactoring guides
+- Notes on coding-agent systems
+- Dataset and model documentation
+- Research articles about AI in software development
+- Practical explanations for Persian-speaking developers
 
----
+These resources are designed to help developers move from theory to real implementation.
 
-## 📚 Educational and Blog Resources
-
-JumpLander provides a variety of educational resources:
-- Step-by-step tutorials for programming in Python, JavaScript, and other languages.  
-- AI-assisted coding exercises and interactive projects.  
-- Case studies demonstrating real-world applications of AI-driven coding.  
-- Insights into the architecture, performance, and capabilities of AI models.  
-
-These resources help bridge the gap between learning and practical application, ensuring that users not only understand programming concepts but also **can implement them effectively**.
+![AI Engineering Illustration](https://www.jumplander.org/assets/github/jumplander.jpg)
 
 ---
 
-## 🛠 Platform Goals
+## 🛠 Project Goals
 
-JumpLander’s platform aims to achieve the following objectives:
+JumpLander’s current goals are:
 
-1. **Empower Developers:** Enable Persian-speaking developers to write better code, faster, and with fewer errors.  
-2. **Foster Learning:** Provide a rich educational environment that accelerates skill acquisition.  
-3. **Encourage Collaboration:** Build a vibrant developer community sharing knowledge, best practices, and real-world solutions.  
-4. **Bridge Local Needs with Global Standards:** Offer a Persian-focused platform that adheres to international AI and coding best practices.
+1. **Build a clear technical identity**  
+   Establish JumpLander as a serious AI engineering project for software development.
+
+2. **Develop useful programming datasets**  
+   Create structured datasets for coding, debugging, repository understanding, and agent workflows.
+
+3. **Create developer-focused AI tools**  
+   Build tools that help programmers work faster, understand code better, and improve projects more effectively.
+
+4. **Support Persian-speaking developers**  
+   Provide localized resources, documentation, and examples for the Persian programming community.
+
+5. **Explore coding agents**  
+   Research and test agentic workflows for real software engineering tasks.
+
+6. **Grow through open technical work**  
+   Publish experiments, documentation, datasets, and tools that can be reviewed and improved over time.
 
 ---
 
 ## 🌟 Roadmap
 
-**Short-Term (1–3 months):**  
-- Expand tutorials and interactive learning content.  
-- Launch ready-to-run AI project examples for multiple languages.  
-- Improve onboarding experience and user interface for faster adoption.
+### Short-Term
 
-**Mid-Term (3–6 months):**  
-- Grow the community of users and contributors.  
-- Publish case studies showing real-world impact of JumpLander AI tools.  
-- Enhance AI models for more precise code generation and debugging.
+- Improve JumpLander’s website, documentation, and technical identity.
+- Publish more programming and software engineering datasets.
+- Expand Persian and English technical articles.
+- Improve programming Q&A and educational resources.
+- Build early prototypes of AI-assisted developer tools.
 
-**Long-Term (6–12 months):**  
-- Release API and SDKs for integration with IDEs and enterprise workflows.  
-- Strengthen JumpLander as the **leading AI-powered programming platform in Iran**.  
-- Expand support for advanced development use-cases including multi-language projects, collaborative coding, and AI-assisted testing.
+### Mid-Term
+
+- Develop practical coding-agent workflows.
+- Improve dataset quality and documentation.
+- Publish more research notes and implementation reports.
+- Release small tools and experiments for developers.
+- Strengthen the JumpLander developer community.
+
+### Long-Term
+
+- Build stronger AI-assisted programming tools.
+- Explore IDE, CLI, and desktop-based developer workflows.
+- Expand model evaluation and lightweight model experiments.
+- Create a more complete AI engineering ecosystem for software development.
+- Position JumpLander as a serious technical project in AI-assisted programming.
 
 ---
 
 ## ⚡ Getting Started
 
-**Website:** [https://jumplander.org](https://jumplander.org)  
-**Explore Tutorials and AI Models:** Learn how JumpLander can improve your coding workflow and accelerate project development.  
+Website:
 
-**Quickstart Guide:**  
-1. Sign up for a free account.  
-2. Explore sample projects and run them in your environment.  
-3. Connect with AI tools to start generating, debugging, and optimizing code.  
+**[https://jumplander.org](https://jumplander.org)**
+
+You can start by exploring:
+
+- Technical articles
+- Programming resources
+- JumpLander datasets
+- Documentation
+- Developer tools and experiments
+- Community discussions
 
 ---
 
 ## 🛡 Ethics and User Policy
 
-JumpLander is committed to:
-- Maintaining **user privacy and security** at all times.  
-- Ensuring **ethical AI usage**.  
-- Prohibiting the generation of harmful, illegal, or rights-violating content.  
+JumpLander is committed to responsible AI development.
+
+The project emphasizes:
+
+- User privacy
+- Safe AI usage
+- Transparent technical communication
+- Human review of AI-generated code
+- Avoiding harmful, illegal, or rights-violating content
+- Clear distinction between experiments, prototypes, and production-ready systems
+
+AI-generated code should always be reviewed before use in real projects.
 
 ---
 
-## 📢 Join the JumpLander Community
+## 🤝 Join the JumpLander Community
 
-Become part of a growing network of Iranian developers and AI enthusiasts:  
-- Stay updated with the latest features and tutorials.  
-- Share your projects and contribute to community knowledge.  
-- Help shape the future of **AI-assisted programming in Iran**.
+JumpLander welcomes developers, researchers, contributors, and AI enthusiasts who are interested in the future of software engineering.
 
-[JumpLander Community](https://huggingface.co/jumplander/jumplander-coder-32b/discussions)
+You can contribute by:
+
+- Sharing feedback
+- Improving documentation
+- Suggesting dataset ideas
+- Testing tools and prototypes
+- Contributing technical articles
+- Participating in discussions
+- Helping improve Persian programming resources
+
+Community:
+
+**[JumpLander Discussions](https://huggingface.co/jumplander/jumplander-coder-32b/discussions)**
 
 ---
 
-**JumpLander — Empowering Iranian Developers with AI, Innovation, and Creativity.**
+## 👤 Maintainer
+
+**Os Odyssey**  
+Founder / Developer of JumpLander
+
+GitHub:
+
+**[https://github.com/osodyssey](https://github.com/osodyssey)**
+
+---
+
+## 📄 License
+
+License information should be defined clearly in the repository `LICENSE` file.
+
+Different parts of the JumpLander ecosystem may use different licenses depending on whether they are code, datasets, documentation, or research assets.
+
+---
+
+**JumpLander — Building practical AI engineering infrastructure for software development.**
